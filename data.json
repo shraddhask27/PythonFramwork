@@ -1,0 +1,17 @@
+{
+  "BaseURL": "https://www.saucedemo.com/",
+  "USERNAME": "standard_user",
+  "PASSWORD": "secret_sauce",
+  "First_Name":"ABC",
+  "Last_Name":"XYZ",
+  "PostalCode":"123456",
+  "URL": "https://seletech.in/practice/",
+  "Frame_url": "https://demo.guru99.com/selenium/deprecated.html",
+  "window_handle_url": "https://the-internet.herokuapp.com/windows",
+  "file_upload_url": "https://nervgh.github.io/pages/angular-file-upload/examples/simple/",
+  "file_upload_path": "/home/shraddha/Desktop/Test.doc",
+  "txt_read": "https://en.wikipedia.org/wiki/Ubuntu",
+  "drag_drop": "https://demoqa.com/droppable",
+  "Search_item_url": "https://demowebshop.tricentis.com/",
+  "search_item": "Laptop"
+}
